@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite-url/en/%E6%88%91/%E6%83%B3%E8%AF%B4%E7%9A%84%E8%AF%9D/</loc>
+    
+    <lastmod>2022-05-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/cn/%E6%88%91/%E6%83%B3%E8%AF%B4%E7%9A%84%E8%AF%9D/</loc>
+    
+    <lastmod>2022-05-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/cn/%E6%AF%9B%E9%80%89%E8%AF%AD%E5%BD%95%E4%B8%80/%E6%AF%9B%E9%80%89%E8%AF%AD%E5%BD%95%E4%B8%80/</loc>
+    
+    <lastmod>2022-05-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/en/%E6%AF%9B%E9%80%89%E8%AF%AD%E5%BD%95%E4%B8%80/%E6%AF%9B%E9%80%89%E8%AF%AD%E5%BD%95%E4%B8%80/</loc>
+    
+    <lastmod>2022-05-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/cn/%E6%AF%9B%E9%80%89%E8%AF%AD%E5%BD%95%E4%B8%89/Hexo-Theme-LiveMyLife/</loc>
+    
+    <lastmod>2022-05-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/en/%E6%AF%9B%E9%80%89%E8%AF%AD%E5%BD%95%E4%BA%8C/Hexo-Theme-LiveMyLife/</loc>
+    
+    <lastmod>2022-05-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/cn/%E6%AF%9B%E9%80%89%E8%AF%AD%E5%BD%95%E4%BA%8C/Hexo-Theme-LiveMyLife/</loc>
+    
+    <lastmod>2022-05-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/en/%E6%AF%9B%E9%80%89%E8%AF%AD%E5%BD%95%E4%B8%89/Hexo-Theme-LiveMyLife/</loc>
+    
+    <lastmod>2022-05-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/categories/index.html</loc>
+    
+    <lastmod>2022-05-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/tags/index.html</loc>
+    
+    <lastmod>2022-05-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/404.html</loc>
+    
+    <lastmod>2022-05-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/archive/index.html</loc>
+    
+    <lastmod>2017-03-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/about/index.html</loc>
+    
+    <lastmod>2016-04-20</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://yoursite-url/</loc>
+    <lastmod>2022-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://yoursite-url/tags/%E6%88%91/</loc>
+    <lastmod>2022-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/tags/%E6%AF%9B%E9%80%89/</loc>
+    <lastmod>2022-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://yoursite-url/categories/%E6%88%91/</loc>
+    <lastmod>2022-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/categories/%E6%AF%9B/</loc>
+    <lastmod>2022-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
